@@ -1,4 +1,4 @@
-# DGD203-RehaDemircan-M-dterm
+# DGD203-RehaDemircan-Mıdterm
 Game Programing 1 Mıdterm
 
 
